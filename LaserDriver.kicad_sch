@@ -3460,7 +3460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:Arduino_Nano"
+		(property "Footprint" "Arduino:Arduino_Nano"
 			(at 111.76 137.16 0)
 			(effects
 				(font
