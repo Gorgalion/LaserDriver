@@ -1777,7 +1777,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:PTVS12VZ1USK"
+		(symbol "Diode:PTVS10VZ1USK"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1795,7 +1795,7 @@
 					)
 				)
 			)
-			(property "Value" "PTVS12VZ1USK"
+			(property "Value" "PTVS10VZ1USK"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1812,7 +1812,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS12VZ1USK.pdf"
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS10VZ1USK.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1821,7 +1821,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "12V, 1900W TVS unidirectional diode, DSN1608-2"
+			(property "Description" "10V, 2000W TVS unidirectional diode, DSN1608-2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1848,7 +1848,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "PTVS12VZ1USK_0_1"
+			(symbol "PTVS10VZ1USK_0_1"
 				(polyline
 					(pts
 						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
@@ -1886,7 +1886,7 @@
 					)
 				)
 			)
-			(symbol "PTVS12VZ1USK_1_1"
+			(symbol "PTVS10VZ1USK_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -1926,7 +1926,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:PTVS5V0Z1USK"
+		(symbol "Diode:PTVS20VZ1USK"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1944,7 +1944,7 @@
 					)
 				)
 			)
-			(property "Value" "PTVS5V0Z1USK"
+			(property "Value" "PTVS20VZ1USK"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1961,7 +1961,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS5V0Z1USK.pdf"
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS20VZ1USK.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1970,7 +1970,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "5V, 1200W TVS unidirectional diode, DSN1608-2"
+			(property "Description" "20V, 2000W TVS unidirectional diode, DSN1608-2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1997,7 +1997,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "PTVS5V0Z1USK_0_1"
+			(symbol "PTVS20VZ1USK_0_1"
 				(polyline
 					(pts
 						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
@@ -2035,7 +2035,7 @@
 					)
 				)
 			)
-			(symbol "PTVS5V0Z1USK_1_1"
+			(symbol "PTVS20VZ1USK_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -4014,7 +4014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Megastar"
 			(at 121.92 138.43 0)
 			(effects
 				(font
@@ -4023,7 +4023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ZX-PM2.54-1-15PY"
 			(at 121.92 138.43 0)
 			(effects
 				(font
@@ -4139,7 +4139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 64.77 120.65 90)
 			(effects
 				(font
@@ -4148,7 +4148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-0710KL"
 			(at 64.77 120.65 90)
 			(effects
 				(font
@@ -4167,93 +4167,6 @@
 			(project ""
 				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
 					(reference "R107")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PTVS5V0Z1USK")
-		(at 163.83 44.45 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "12a083b3-2800-4050-8ef1-e9b42b41e4c6")
-		(property "Reference" "D102"
-			(at 159.258 34.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PTVS5V0Z1USK"
-			(at 159.258 37.338 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
-			(at 159.385 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS5V0Z1USK.pdf"
-			(at 163.83 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "5V, 1200W TVS unidirectional diode, DSN1608-2"
-			(at 163.83 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 163.83 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 163.83 44.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b1fff1cd-c1a3-4546-9537-ac0091ca0998")
-		)
-		(pin "2"
-			(uuid "ed3c9b9b-a6f5-4f54-a164-5e3d32420fbb")
-		)
-		(instances
-			(project ""
-				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
-					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -4392,94 +4305,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PTVS5V0Z1USK")
-		(at 71.12 125.73 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "22754109-b3b1-416c-8671-ace782c7fb8d")
-		(property "Reference" "D104"
-			(at 73.66 124.4599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PTVS5V0Z1USK"
-			(at 73.66 126.9999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
-			(at 66.675 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS5V0Z1USK.pdf"
-			(at 71.12 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "5V, 1200W TVS unidirectional diode, DSN1608-2"
-			(at 71.12 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 71.12 125.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 71.12 125.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0fcc3ce5-4dba-41e8-a595-9369a114b4e2")
-		)
-		(pin "1"
-			(uuid "90aa13b1-42dc-4b32-a0a9-3cf67f11a076")
-		)
-		(instances
-			(project ""
-				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
-					(reference "D104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 66.04 140.97 90)
 		(unit 1)
@@ -4531,7 +4356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 66.04 140.97 90)
 			(effects
 				(font
@@ -4540,7 +4365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07220RL"
 			(at 66.04 140.97 90)
 			(effects
 				(font
@@ -4625,6 +4450,94 @@
 			(project ""
 				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:PTVS10VZ1USK")
+		(at 71.12 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "345ec3c3-ae74-4eff-afdf-937e4334b9b2")
+		(property "Reference" "D103"
+			(at 73.66 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PTVS10VZ1USK"
+			(at 73.66 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
+			(at 66.675 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS10VZ1USK.pdf"
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V, 2000W TVS unidirectional diode, DSN1608-2"
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 71.12 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PTVS10VZ1USKYL"
+			(at 71.12 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "33c14337-290b-4aaf-a0d7-5508d176ed5d")
+		)
+		(pin "1"
+			(uuid "2824e11a-22f6-41f6-a694-ea305f9fd99e")
+		)
+		(instances
+			(project "LaserDriver"
+				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -5056,7 +4969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 125.73 49.53 90)
 			(effects
 				(font
@@ -5065,7 +4978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 125.73 49.53 90)
 			(effects
 				(font
@@ -5144,7 +5057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TA-I Tech"
 			(at 146.05 55.88 0)
 			(effects
 				(font
@@ -5153,7 +5066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RLP25FEER200"
 			(at 146.05 55.88 0)
 			(effects
 				(font
@@ -5353,17 +5266,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PTVS5V0Z1USK")
-		(at 72.39 146.05 270)
+		(lib_id "Diode:PTVS10VZ1USK")
+		(at 163.83 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6a17dd2d-a979-4db3-9074-e8e2af13656f")
-		(property "Reference" "D103"
-			(at 74.93 144.7799 90)
+		(uuid "684ba35f-3ecd-4da5-814e-78995a462ba8")
+		(property "Reference" "D102"
+			(at 166.37 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5371,8 +5284,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PTVS5V0Z1USK"
-			(at 74.93 147.3199 90)
+		(property "Value" "PTVS10VZ1USK"
+			(at 166.37 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5381,7 +5294,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
-			(at 67.945 146.05 0)
+			(at 159.385 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,8 +5302,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS5V0Z1USK.pdf"
-			(at 72.39 146.05 0)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS10VZ1USK.pdf"
+			(at 163.83 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5398,8 +5311,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5V, 1200W TVS unidirectional diode, DSN1608-2"
-			(at 72.39 146.05 0)
+		(property "Description" "10V, 2000W TVS unidirectional diode, DSN1608-2"
+			(at 163.83 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5407,8 +5320,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 72.39 146.05 90)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 163.83 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5416,25 +5329,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
-			(at 72.39 146.05 90)
+		(property "Manufacturer Part Number" "PTVS10VZ1USKYL"
+			(at 163.83 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "7f3de97d-3808-443a-acc5-731a7596ac90")
 		)
 		(pin "2"
-			(uuid "b0cb4e1a-5d4f-4c8e-a994-aa67414d5543")
+			(uuid "09f9fa4f-5a6f-43a5-9d79-5a3911e07563")
+		)
+		(pin "1"
+			(uuid "bfdfb51e-a053-4791-b72e-2986cf4ef95f")
 		)
 		(instances
 			(project ""
 				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
-					(reference "D103")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -5758,7 +5671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 57.15 125.73 0)
 			(effects
 				(font
@@ -5767,7 +5680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-075K6L"
 			(at 57.15 125.73 0)
 			(effects
 				(font
@@ -5786,6 +5699,93 @@
 			(project ""
 				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
 					(reference "R108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:PTVS20VZ1USK")
+		(at 54.61 36.83 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "89f44574-6a47-4854-865b-50877689c6af")
+		(property "Reference" "D100"
+			(at 49.022 39.624 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PTVS20VZ1USK"
+			(at 49.022 42.164 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
+			(at 50.165 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS20VZ1USK.pdf"
+			(at 54.61 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "20V, 2000W TVS unidirectional diode, DSN1608-2"
+			(at 54.61 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 54.61 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PTVS20VZ1USKYL"
+			(at 54.61 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b7f1fea-1015-4dcc-900d-ec6279a5cc1c")
+		)
+		(pin "2"
+			(uuid "c2b6ad46-93c2-41bc-8fe2-6b1e109f4659")
+		)
+		(instances
+			(project ""
+				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
+					(reference "D100")
 					(unit 1)
 				)
 			)
@@ -5928,7 +5928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 69.85 36.83 0)
 			(effects
 				(font
@@ -5937,7 +5937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07220KL"
 			(at 69.85 36.83 0)
 			(effects
 				(font
@@ -6101,7 +6101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 59.69 52.07 90)
 			(effects
 				(font
@@ -6110,7 +6110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-0730KL"
 			(at 59.69 52.07 90)
 			(effects
 				(font
@@ -6187,7 +6187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 40.64 120.65 90)
 			(effects
 				(font
@@ -6196,7 +6196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 40.64 120.65 90)
 			(effects
 				(font
@@ -6275,7 +6275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 58.42 146.05 0)
 			(effects
 				(font
@@ -6284,7 +6284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07100KL"
 			(at 58.42 146.05 0)
 			(effects
 				(font
@@ -6447,7 +6447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "PULSE"
 			(at 139.7 39.37 90)
 			(effects
 				(font
@@ -6456,7 +6456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "PA4308.333NLT"
 			(at 139.7 39.37 90)
 			(effects
 				(font
@@ -6695,93 +6695,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PTVS12VZ1USK")
-		(at 54.61 36.83 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b7d50c19-2013-4b36-9162-cd64bba06360")
-		(property "Reference" "D100"
-			(at 49.022 41.656 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PTVS12VZ1USK"
-			(at 49.022 44.196 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
-			(at 50.165 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS12VZ1USK.pdf"
-			(at 54.61 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "12V, 1900W TVS unidirectional diode, DSN1608-2"
-			(at 54.61 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 54.61 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" ""
-			(at 54.61 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e7cb1b3-ac42-4989-86fe-c12dfd377b42")
-		)
-		(pin "2"
-			(uuid "530dcc4a-377c-4c6c-99a8-bb69e1ebfc2d")
-		)
-		(instances
-			(project ""
-				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
-					(reference "D100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 64.77 72.39 0)
 		(unit 1)
@@ -6994,7 +6907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 76.2 67.31 0)
 			(effects
 				(font
@@ -7003,7 +6916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-07200KL"
 			(at 76.2 67.31 0)
 			(effects
 				(font
@@ -7082,7 +6995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 100.33 46.99 0)
 			(effects
 				(font
@@ -7091,7 +7004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "TPS92513DGQR"
 			(at 100.33 46.99 0)
 			(effects
 				(font
@@ -7152,7 +7065,7 @@
 		(dnp no)
 		(uuid "daff7fb1-839d-411d-a8f5-bb174f08d5c5")
 		(property "Reference" "C100"
-			(at 57.912 35.56 0)
+			(at 57.404 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7444,6 +7357,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:PTVS10VZ1USK")
+		(at 72.39 146.05 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f371a8f5-52d2-443f-ab80-8fb65d30f813")
+		(property "Reference" "D104"
+			(at 74.93 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PTVS10VZ1USK"
+			(at 74.93 147.3199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
+			(at 67.945 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS10VZ1USK.pdf"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V, 2000W TVS unidirectional diode, DSN1608-2"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia USA Inc."
+			(at 72.39 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PTVS10VZ1USKYL"
+			(at 72.39 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4af8aeb7-2139-4ad6-b376-dcd2f899936c")
+		)
+		(pin "1"
+			(uuid "b1ca5219-7502-401d-ae2b-11d36e2a01a6")
+		)
+		(instances
+			(project "LaserDriver"
+				(path "/e8909e30-da70-4cda-aa2c-d92cdd96f174"
+					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 57.15 69.85 0)
 		(unit 1)
@@ -7564,7 +7565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Megastar"
 			(at 140.97 138.43 0)
 			(effects
 				(font
@@ -7573,7 +7574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "ZX-PM2.54-1-15PY"
 			(at 140.97 138.43 0)
 			(effects
 				(font
