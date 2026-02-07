@@ -514,7 +514,7 @@
       "plot": "Gerbers/",
       "pos_files": "Assembly/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LaserDriver.step",
       "svg": "",
       "vrml": ""
     },
