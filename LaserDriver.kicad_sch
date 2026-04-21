@@ -6420,7 +6420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_7.3x7.3_H4.5"
+		(property "Footprint" "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm"
 			(at 139.7 39.37 0)
 			(effects
 				(font
@@ -6447,7 +6447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PULSE"
+		(property "Manufacturer" "BOURNS"
 			(at 139.7 39.37 90)
 			(effects
 				(font
@@ -6456,7 +6456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "PA4308.333NLT"
+		(property "Manufacturer Part Number" "SRP7028A-330M"
 			(at 139.7 39.37 90)
 			(effects
 				(font
